@@ -1,5 +1,5 @@
 # EPR
- Official Code Repository for "Saliency Guided Experience Packing for Replay in Continual Learning", IEEE/CVF WACV 2023 (accepted).
+ Official Code Repository for "Saliency Guided Experience Packing for Replay in Continual Learning", IEEE/CVF WACV 2023.
  
  [[Paper]](https://openaccess.thecvf.com/content/WACV2023/html/Saha_Saliency_Guided_Experience_Packing_for_Replay_in_Continual_Learning_WACV_2023_paper.html)
  
